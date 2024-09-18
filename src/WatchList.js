@@ -5,8 +5,7 @@ import w1 from './w1.png';
 import w2 from './w2.jpg';
 import w3 from './w3.jpg';
 import w4 from './w4.jpg';
-import w5 from './w5.jpg';
-import w6 from './w6.jpg';
+
 import new1 from './new1.jpg';
 import new2 from './new2.jpg';
 import new3 from './new3.jpg';

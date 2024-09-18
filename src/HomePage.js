@@ -2,7 +2,7 @@ import React from 'react';
 import { useNavigate } from 'react-router-dom'; // Import useNavigate from react-router-dom
 import './HomePage.css';
 import watchImage from './watch.jpg';
-import AboutPage from './AboutPage';
+
 const HomePage = () => {
   const navigate = useNavigate(); // Initialize useNavigate
 
